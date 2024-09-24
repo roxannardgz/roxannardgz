@@ -7,13 +7,13 @@
 <br>
 
 
-- 🔭 I’m currently working on **Agricultural Productivity Analysis**
+- 🔭 I’m currently working on [Agricultural Productivity Analysis](https://github.com/roxannardgz/agricultural_productivity).
 
-- 🌱 I’m currently learning **how to work with cloud-based databases and data pipelines**
+- 🌱 I’m currently learning **how to work with cloud-based databases and data pipelines**.
 
-- 👯 I’m looking to collaborate with [Data for Change](https://www.linkedin.com/company/data-for-change/)
+- 👯 I’m looking to collaborate with [Data for Change](https://www.linkedin.com/company/data-for-change/).
 
-- 👨‍💻 My main projects are available at [https://www.roxannarodriguez.com/projects](https://www.roxannarodriguez.com/projects)
+- 👨‍💻 My main projects are available at [https://www.roxannarodriguez.com/projects](https://www.roxannarodriguez.com/projects).
 
 
 ## My Skill Set
