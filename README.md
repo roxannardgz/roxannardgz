@@ -9,8 +9,11 @@
 
 - 👩🏻‍💻 I’m currently working on [Agricultural Productivity Analysis](https://github.com/roxannardgz/agricultural_productivity).
 
-- 🌱 I’m currently learning **how to work with cloud-based databases and data pipelines**.
-
+- 🌱 I’m currently learning **experimental design and time series analysis**.
+<!--
+Experimental Design: Understand A/B testing, hypothesis testing, and experimental design frameworks for more robust analytics.
+Time Series Analysis: Delve deeper into time series forecasting, which is crucial for financial, marketing, and operational data analysis. Learn methods like ARIMA, SARIMA, and exponential smoothing.
+-->
 - 👯 I’m looking to collaborate with [Data for Change](https://www.linkedin.com/company/data-for-change/).
 
 - 🔍 Check out my main projects on [my web portfolio](https://www.roxannarodriguez.com/projects).
@@ -62,8 +65,8 @@
   
 
 ### <div align="center">✨</div>  
-
-
+<!--
+-->
 <!--
 **roxannardgz/roxannardgz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
