@@ -2,14 +2,17 @@
 
 ## Hi, I'm Roxanna 👋
 
+<!--
 <br>
 <h3 align="center">I'm an Industrial Engineer and Organizational Development professional with a growing passion for data. </h3>
 <br>
-
+-->
+Driven by a passion for continuous learning, process optimization, and practical problem-solving, I help businesses drive positive change by creating data-driven solutions that optimize workflows and decision-making.
+<br>
 
 - 👩🏻‍💻 I’m currently working on [Agricultural Productivity Analysis](https://github.com/roxannardgz/agricultural_productivity).
 
-- 🌱 I’m currently learning **experimental design and time series analysis**.
+- 🤓 I’m currently learning **experimental design and time series analysis**.
 <!--
 Experimental Design: Understand A/B testing, hypothesis testing, and experimental design frameworks for more robust analytics.
 Time Series Analysis: Delve deeper into time series forecasting, which is crucial for financial, marketing, and operational data analysis. Learn methods like ARIMA, SARIMA, and exponential smoothing.
@@ -17,6 +20,8 @@ Time Series Analysis: Delve deeper into time series forecasting, which is crucia
 - 👯 I’m looking to collaborate with [Data for Change](https://www.linkedin.com/company/data-for-change/).
 
 - 🔍 Check out my main projects on [my web portfolio](https://www.roxannarodriguez.com/projects).
+<br>
+Beyond my interest in data, I’m also a nutrition and fitness enthusiast, passionate about the connection between soil health and food quality and how what we eat influences both physical and mental well-being. 🌱
 
 
 ## My Skill Set
