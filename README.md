@@ -10,8 +10,8 @@
 Driven by a passion for continuous learning, process optimization, and practical problem-solving, I help businesses drive positive change by creating data-driven solutions that optimize workflows and decision-making.
 <br>
 
-- 👩🏻‍💻 I’m currently working on [Agricultural Productivity Analysis](https://github.com/roxannardgz/agricultural_productivity).
-
+<!--- 👩🏻‍💻 I’m currently working on [Agricultural Productivity Analysis](https://github.com/roxannardgz/agricultural_productivity).
+--->
 - 🤓 I’m currently learning **experimental design and time series analysis**.
 <!--
 Experimental Design: Understand A/B testing, hypothesis testing, and experimental design frameworks for more robust analytics.
