@@ -12,7 +12,7 @@ Driven by a passion for continuous learning, process optimization, and practical
 
 <!--- 👩🏻‍💻 I’m currently working on [Agricultural Productivity Analysis](https://github.com/roxannardgz/agricultural_productivity).
 --->
-- 🤓 I’m currently learning **experimental design and time series analysis**.
+- 🤓 I’m currently learning **dbt**.
 <!--
 Experimental Design: Understand A/B testing, hypothesis testing, and experimental design frameworks for more robust analytics.
 Time Series Analysis: Delve deeper into time series forecasting, which is crucial for financial, marketing, and operational data analysis. Learn methods like ARIMA, SARIMA, and exponential smoothing.
